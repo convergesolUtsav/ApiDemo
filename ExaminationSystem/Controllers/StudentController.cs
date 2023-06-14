@@ -29,5 +29,12 @@ namespace ExaminationSystem.Controllers
             int data = await _studentRepository.Add(student);
             return Ok(data);
         }
+
+        [HttpPost("Delete")]
+        public async Task<ActionResult> Delete(Student student)
+        {
+            int data = await _studentRepository.Add(student);
+            return Ok(data);
+        }
     }
 }

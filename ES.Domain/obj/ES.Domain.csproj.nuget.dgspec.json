@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\saurabh kumbhani\\ExaminationSystem\\ES.Domain\\ES.Domain.csproj": {}
+    "E:\\api\\ExaminationSystem\\ES.Domain\\ES.Domain.csproj": {}
   },
   "projects": {
-    "D:\\saurabh kumbhani\\ExaminationSystem\\ES.Domain\\ES.Domain.csproj": {
+    "E:\\api\\ExaminationSystem\\ES.Domain\\ES.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\saurabh kumbhani\\ExaminationSystem\\ES.Domain\\ES.Domain.csproj",
+        "projectUniqueName": "E:\\api\\ExaminationSystem\\ES.Domain\\ES.Domain.csproj",
         "projectName": "ES.Domain",
-        "projectPath": "D:\\saurabh kumbhani\\ExaminationSystem\\ES.Domain\\ES.Domain.csproj",
-        "packagesPath": "C:\\Users\\CS-DC-05\\.nuget\\packages\\",
-        "outputPath": "D:\\saurabh kumbhani\\ExaminationSystem\\ES.Domain\\obj\\",
+        "projectPath": "E:\\api\\ExaminationSystem\\ES.Domain\\ES.Domain.csproj",
+        "packagesPath": "C:\\Users\\CS-DC-07\\.nuget\\packages\\",
+        "outputPath": "E:\\api\\ExaminationSystem\\ES.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CS-DC-05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CS-DC-07\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

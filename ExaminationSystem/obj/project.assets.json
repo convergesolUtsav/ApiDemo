@@ -4254,19 +4254,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CS-DC-05\\.nuget\\packages\\": {}
+    "C:\\Users\\CS-DC-07\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\saurabh kumbhani\\ExaminationSystem\\ExaminationSystem\\ExaminationSystem.csproj",
+      "projectUniqueName": "E:\\api\\ExaminationSystem\\ExaminationSystem\\ExaminationSystem.csproj",
       "projectName": "ExaminationSystem",
-      "projectPath": "D:\\saurabh kumbhani\\ExaminationSystem\\ExaminationSystem\\ExaminationSystem.csproj",
-      "packagesPath": "C:\\Users\\CS-DC-05\\.nuget\\packages\\",
-      "outputPath": "D:\\saurabh kumbhani\\ExaminationSystem\\ExaminationSystem\\obj\\",
+      "projectPath": "E:\\api\\ExaminationSystem\\ExaminationSystem\\ExaminationSystem.csproj",
+      "packagesPath": "C:\\Users\\CS-DC-07\\.nuget\\packages\\",
+      "outputPath": "E:\\api\\ExaminationSystem\\ExaminationSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CS-DC-05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\CS-DC-07\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4280,11 +4280,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\saurabh kumbhani\\ExaminationSystem\\ES.Domain\\ES.Domain.csproj": {
-              "projectPath": "D:\\saurabh kumbhani\\ExaminationSystem\\ES.Domain\\ES.Domain.csproj"
+            "E:\\api\\ExaminationSystem\\ES.Domain\\ES.Domain.csproj": {
+              "projectPath": "E:\\api\\ExaminationSystem\\ES.Domain\\ES.Domain.csproj"
             },
-            "D:\\saurabh kumbhani\\ExaminationSystem\\ES.Repository\\ES.Repository.csproj": {
-              "projectPath": "D:\\saurabh kumbhani\\ExaminationSystem\\ES.Repository\\ES.Repository.csproj"
+            "E:\\api\\ExaminationSystem\\ES.Repository\\ES.Repository.csproj": {
+              "projectPath": "E:\\api\\ExaminationSystem\\ES.Repository\\ES.Repository.csproj"
             }
           }
         }
