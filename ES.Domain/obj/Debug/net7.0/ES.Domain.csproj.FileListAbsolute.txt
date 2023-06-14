@@ -1,0 +1,14 @@
+D:\saurabh kumbhani\ExaminationSystem\ES.Domain\bin\Debug\net7.0\ES.Domain.deps.json
+D:\saurabh kumbhani\ExaminationSystem\ES.Domain\bin\Debug\net7.0\ES.Domain.runtimeconfig.json
+D:\saurabh kumbhani\ExaminationSystem\ES.Domain\bin\Debug\net7.0\ES.Domain.dll
+D:\saurabh kumbhani\ExaminationSystem\ES.Domain\bin\Debug\net7.0\ES.Domain.pdb
+D:\saurabh kumbhani\ExaminationSystem\ES.Domain\obj\Debug\net7.0\ES.Domain.csproj.AssemblyReference.cache
+D:\saurabh kumbhani\ExaminationSystem\ES.Domain\obj\Debug\net7.0\ES.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\saurabh kumbhani\ExaminationSystem\ES.Domain\obj\Debug\net7.0\ES.Domain.AssemblyInfoInputs.cache
+D:\saurabh kumbhani\ExaminationSystem\ES.Domain\obj\Debug\net7.0\ES.Domain.AssemblyInfo.cs
+D:\saurabh kumbhani\ExaminationSystem\ES.Domain\obj\Debug\net7.0\ES.Domain.csproj.CoreCompileInputs.cache
+D:\saurabh kumbhani\ExaminationSystem\ES.Domain\obj\Debug\net7.0\ES.Domain.dll
+D:\saurabh kumbhani\ExaminationSystem\ES.Domain\obj\Debug\net7.0\refint\ES.Domain.dll
+D:\saurabh kumbhani\ExaminationSystem\ES.Domain\obj\Debug\net7.0\ES.Domain.pdb
+D:\saurabh kumbhani\ExaminationSystem\ES.Domain\obj\Debug\net7.0\ES.Domain.genruntimeconfig.cache
+D:\saurabh kumbhani\ExaminationSystem\ES.Domain\obj\Debug\net7.0\ref\ES.Domain.dll

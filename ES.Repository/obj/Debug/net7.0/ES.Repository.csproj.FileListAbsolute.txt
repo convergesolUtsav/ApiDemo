@@ -1,0 +1,17 @@
+D:\saurabh kumbhani\ExaminationSystem\ES.Repository\bin\Debug\net7.0\ES.Repository.deps.json
+D:\saurabh kumbhani\ExaminationSystem\ES.Repository\bin\Debug\net7.0\ES.Repository.runtimeconfig.json
+D:\saurabh kumbhani\ExaminationSystem\ES.Repository\bin\Debug\net7.0\ES.Repository.dll
+D:\saurabh kumbhani\ExaminationSystem\ES.Repository\bin\Debug\net7.0\ES.Repository.pdb
+D:\saurabh kumbhani\ExaminationSystem\ES.Repository\bin\Debug\net7.0\ES.Domain.dll
+D:\saurabh kumbhani\ExaminationSystem\ES.Repository\bin\Debug\net7.0\ES.Domain.pdb
+D:\saurabh kumbhani\ExaminationSystem\ES.Repository\obj\Debug\net7.0\ES.Repository.csproj.AssemblyReference.cache
+D:\saurabh kumbhani\ExaminationSystem\ES.Repository\obj\Debug\net7.0\ES.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\saurabh kumbhani\ExaminationSystem\ES.Repository\obj\Debug\net7.0\ES.Repository.AssemblyInfoInputs.cache
+D:\saurabh kumbhani\ExaminationSystem\ES.Repository\obj\Debug\net7.0\ES.Repository.AssemblyInfo.cs
+D:\saurabh kumbhani\ExaminationSystem\ES.Repository\obj\Debug\net7.0\ES.Repository.csproj.CoreCompileInputs.cache
+D:\saurabh kumbhani\ExaminationSystem\ES.Repository\obj\Debug\net7.0\ES.Repository.csproj.CopyComplete
+D:\saurabh kumbhani\ExaminationSystem\ES.Repository\obj\Debug\net7.0\ES.Repository.dll
+D:\saurabh kumbhani\ExaminationSystem\ES.Repository\obj\Debug\net7.0\refint\ES.Repository.dll
+D:\saurabh kumbhani\ExaminationSystem\ES.Repository\obj\Debug\net7.0\ES.Repository.pdb
+D:\saurabh kumbhani\ExaminationSystem\ES.Repository\obj\Debug\net7.0\ES.Repository.genruntimeconfig.cache
+D:\saurabh kumbhani\ExaminationSystem\ES.Repository\obj\Debug\net7.0\ref\ES.Repository.dll
